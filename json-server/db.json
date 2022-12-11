@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "email": "ayoub@test.com",
+      "password": "$2a$10$qzLqISiNBdCLMhy8u.yte.0kn25M8fjyIWDN22kFn5FpwftGXjemu",
+      "pseudo": "ayoub",
+      "urlImgProfil": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "id": 1
+    }
+  ],
+  "articles": [
+    {
+      "contenu": "Je suis incroyablement fort en dev web",
+      "urlImgArticle": "https://www.decade.fr/images/banni%C3%A8re-site-Dev-FrontEnd-VueJS.jpg",
+      "like": 3,
+      "pseudo": "Ayoub",
+      "usrImg": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "date": 1649277945051,
+      "commentaires":  [
+        {
+        "id": 1 ,
+        "contenu" : "Ceci est un commentaire de test",
+        "pseudo" : "Ayoub" ,
+        "dt" : 1649277945051
+        },
+        {
+        "id": 2 ,
+        "contenu" : "Waou tu es vachement fort !",
+        "pseudo" : "Ahmed" ,
+        "dt" : 1649277945051
+        }
+        ],
+      "id": 1
+    },
+    {
+      "contenu": "Ce projet est fourni par Ayoub MOUTAOUAKIL. Voici les identifiants de connexion. Email : ayoub@test.com / password : 123456 / Il est également possible de se créer un compte en appuyant sur créer un profil sur le menu à gauche.",
+      "urlImgArticle": "https://st4.depositphotos.com/3102403/19687/v/1600/depositphotos_196874352-stock-illustration-user-interface-banner-concept.jpg",
+      "like": 3,
+      "pseudo": "Ayoub",
+      "usrImg": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+        "id": 1 ,
+        "contenu" : "Ensuite il faut se connecter en appuyant sur connexion sur le menu à gauche",
+        "pseudo" : "Ayoub" ,
+        "dt" : 1649277945051
+        }
+        ],
+      "id": 2
+    },
+    {
+      "contenu": "Post de test",
+      "urlImgArticle": "https://img.freepik.com/vecteurs-libre/banniere-test-logiciel_80328-15.jpg",
+      "like": 3,
+      "pseudo": "Ayoub",
+      "usrImg": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "date": 1649277945051,
+      "commentaires": [],
+      "id": 3
+    }
+  ]
+}
